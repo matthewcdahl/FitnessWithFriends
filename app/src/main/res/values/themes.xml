@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AppTheme">
+        <attr name="colorControlNormal" format="color"/>
+        <attr name="colorControlActivated" format="color"/>
+    </declare-styleable>
+    <style name="Theme.FitnessWithFriends" parent="android:Theme.Material.Light.NoActionBar" />
+
+</resources>
