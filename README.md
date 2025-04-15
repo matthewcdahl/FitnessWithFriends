@@ -23,6 +23,8 @@
 - Kotlin 1.9+
 - Gradle 8+
 - Google Cloud Project with OAuth 2.0 credentials (Web Client ID for Google Sign-In)
+- Firebase Firestore setup, will need to put the google-services.json file into app directory
+- Will need to include API_KEY in local.properties
 
 ### Clone the Repo
 
